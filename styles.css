@@ -17,7 +17,7 @@
     width: 50%;
 }
 
-nav {
+.kopfzeile {
     display: inline-block;
     margin-left: 35px;
     padding-right: 20px;
@@ -27,7 +27,7 @@ nav {
     float: right;
     
 }
-nav:hover {
+.kopfzeile:hover {
     font-size: large;
 }
 h1 {
@@ -42,7 +42,11 @@ p {
 
 .end {
     background-color: rgb(208, 206, 206);
-   width: 90%;
-   margin-right: 6px;
+   width: 95%;
+   margin-left: 6px;
+   margin-top: 40px;
    text-align: end;
+   height: 40px;
+   padding-top: 20px;
+   padding-right: 8px;
 }
